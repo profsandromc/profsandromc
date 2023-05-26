@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1>Sandro Martins da Costa</h1>
-
+<img src="https://becode.com.br/wp-content/uploads/2017/05/Come%C3%A7ar-com-Java.gif">
 <!--
 **profsandromc/profsandromc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
