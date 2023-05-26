@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1>Sandro Martin da Costa</h1>
+<h1>Sandro Martins da Costa</h1>
 
 <!--
 **profsandromc/profsandromc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
